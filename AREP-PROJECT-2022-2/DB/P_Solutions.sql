@@ -1,0 +1,10 @@
+INSERT INTO Solutions VALUES (DEFAULT, "Cambiar trafico a un solo sentido", "2022-11-21");
+INSERT INTO Solutions VALUES (DEFAULT, "Cambiar trafico a doble sentido", "2022-10-22");
+INSERT INTO Solutions VALUES (DEFAULT, "Redirigir trafico por via alterna", "2022-11-14");
+INSERT INTO Solutions VALUES (DEFAULT, "Aumentar tiempo en verder de semaforos", "2022-11-22");
+INSERT INTO Solutions VALUES (DEFAULT, "Disminuir tiempo en rojo de semaforos", "2022-07-22");
+INSERT INTO Solutions VALUES (DEFAULT, "Desviar trafico de rutas convergentes a la actual", "2022-11-01");
+INSERT INTO Solutions VALUES (DEFAULT, "Enviar guardian de tráfico a la zona", "2022-11-22");
+INSERT INTO Solutions VALUES (DEFAULT, "Ruta de uso vehicular particular únicamente", "2022-10-22");
+INSERT INTO Solutions VALUES (DEFAULT, "Reducir la cantidad de buses de transporte publico circulantes en cierta ruta", "2022-09-22");
+INSERT INTO Solutions VALUES (DEFAULT, "Bloquear rutas convergentes y apagar semaforo.", "2022-09-22");

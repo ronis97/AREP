@@ -1,0 +1,18 @@
+reportDatetime,solutionName,successRate,additionDate,averageSpeed,isMainStreet
+10/4/2022 12:33,Redirigir trafico por via alterna,39.36,11/14/2022,18.21,0
+6/9/2022 9:58,Aumentar tiempo en verder de semaforos,85.21,11/22/2022,43.12,1
+6/9/2022 9:58,Aumentar tiempo en verder de semaforos,85.21,11/22/2022,9.54,1
+5/7/2022 16:30,Disminuir tiempo en rojo de semaforos,15.08,7/22/2022,10.4,0
+5/7/2022 16:30,Disminuir tiempo en rojo de semaforos,15.08,7/22/2022,8.63,0
+5/7/2022 16:30,Disminuir tiempo en rojo de semaforos,15.08,7/22/2022,54.16,0
+5/7/2022 16:30,Disminuir tiempo en rojo de semaforos,15.08,7/22/2022,53.55,0
+4/6/2022 20:20,Desviar trafico de rutas convergentes a la actual,80.65,11/1/2022,27.91,0
+4/6/2022 20:20,Desviar trafico de rutas convergentes a la actual,80.65,11/1/2022,38.45,0
+8/22/2022 8:49,Enviar guardian de tráfico a la zona,7.71,11/22/2022,5.38,1
+3/14/2022 10:23,Ruta de uso vehicular particular únicamente,29.81,10/22/2022,31.63,1
+3/14/2022 10:23,Ruta de uso vehicular particular únicamente,29.81,10/22/2022,36.88,1
+5/30/2022 13:00,Reducir la cantidad de buses de transporte publico circulantes en cierta ruta,9.29,9/22/2022,43.12,1
+5/30/2022 13:00,Reducir la cantidad de buses de transporte publico circulantes en cierta ruta,9.29,9/22/2022,9.54,1
+6/18/2022 11:29,Bloquear rutas convergentes y apagar semaforo.,20.19,9/22/2022,2.77,0
+6/18/2022 11:29,Bloquear rutas convergentes y apagar semaforo.,20.19,9/22/2022,27.92,0
+6/18/2022 11:29,Bloquear rutas convergentes y apagar semaforo.,20.19,9/22/2022,17.5,0
